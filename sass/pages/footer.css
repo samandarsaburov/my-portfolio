@@ -1,0 +1,13 @@
+.fot .icordion {
+  display: flex;
+  justify-content: space-between;
+}
+.fot .icordion .icordion-item {
+  width: 50%;
+}
+.fot .icordion .icordion-item button {
+  width: 100%;
+}
+.fot .icordion .icordion-item p {
+  display: none;
+}/*# sourceMappingURL=footer.css.map */

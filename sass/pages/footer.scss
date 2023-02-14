@@ -1,0 +1,16 @@
+
+.fot{
+    .icordion{
+        display: flex;
+        justify-content: space-between;
+        .icordion-item{
+            width: 50%;
+            button{
+                width: 100%;
+            }
+            p{
+                display: none;
+            }
+        }
+    }
+}
